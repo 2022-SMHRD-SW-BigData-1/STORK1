@@ -98,7 +98,7 @@ function App() {
       <Route path="/Labor" element={<LaborPage />} />
       <Route path="/Join" element={<JoinPage />} />
       <Route path="/LaborHelp" element={<LaborHelpPage />} />
-      <Route path="/Calendar" element={<CalendarMain/>} />
+      <Route path="/Calendar" element={<CalendarMain />} />
       <Route path="/Inspect" element={<InspectStart />} />
       <Route path="/Ins_click" element={<InspectClick />} />
     </Routes>
